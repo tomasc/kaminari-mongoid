@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 #FIXME bundle GH branch for now
-gem 'kaminari-core', github: 'amatsuda/kaminari'
-gem 'kaminari-actionview', github: 'amatsuda/kaminari'
+gem 'kaminari-core', github: 'amatsuda/kaminari', branch: 'test-unit'
+gem 'kaminari-actionview', github: 'amatsuda/kaminari', branch: 'test-unit'
 
 gem 'railties', '~> 5.0'
 gem 'mongoid', '~> 6.0.0'
