@@ -44,6 +44,8 @@ matrix:
       gemfile: gemfiles/mongoid_50.gemfile
     - rvm: 2.4.3
       gemfile: gemfiles/mongoid_40.gemfile
+    - rvm: 2.2.9
+      gemfile: gemfiles/mongoid_70.gemfile
     - rvm: 2.1.10
       gemfile: gemfiles/mongoid_70.gemfile
     - rvm: 2.0.0
